@@ -11,6 +11,7 @@ Catat di sini orang yang ditambah (orang baru di perumahan) dan yang dihapus (su
 | Gang / jalan | Ditambah | Dihapus (meninggal) |
 |---|---|---|
 | GG III | | Arief Sujarnata: tidak diundang lagi, keluarganya diberi berkat saja |
+| GG VIII | | Nafi dan Parlan: tidak diundang |
 
 ## Aturan penyusunan
 
@@ -24,7 +25,7 @@ Catat di sini orang yang ditambah (orang baru di perumahan) dan yang dihapus (su
 
 ---
 
-## 1. Perumda (55 orang)
+## 1. Perumda (53 orang)
 
 ### GG I
 | Nama | Jenis |
@@ -116,9 +117,7 @@ Catatan update 7 hari GG 7 punya 4 nomor. Nomor 3 dan 4 dicoret (tulisannya miri
 ### GG VIII
 | Nama | Jenis |
 |---|---|
-| Nafi | U |
 | H. Mustofa | T |
-| Parlan | T |
 | Bu Slamet *(nama sama dengan Bu Slamet di GG VII, orang berbeda)* | B |
 | Bu Parti | B |
 | Bu Edi | B |
