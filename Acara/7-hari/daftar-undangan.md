@@ -2,6 +2,7 @@
 
 > Catatan **sementara**, hasil tulis ulang dari 11 foto tulisan tangan (disusun 2026-11-08).
 > **Diperbarui 2026-11-12**: digabung dengan 7 foto catatan tangan terbaru + 1 tangkapan layar WhatsApp dari Ibuk.
+> Daftar ini juga dipakai apa adanya untuk acara 40 hari dan 100 hari (tidak dibuat ulang). Jadi daftar ini adalah basis daftar haul pertama (lihat `../haul-pertama/`).
 > Bukan pekerjaan Masuya, hanya disimpan di sini dulu.
 
 ## Aturan penyusunan
