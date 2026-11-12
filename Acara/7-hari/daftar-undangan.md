@@ -228,7 +228,7 @@ Catatan baru Blimbing mencoret H. Adhim. Dia sudah ada sebagai H. Adim, tidak di
 | H. Noeryadi | T |
 | Pak Mahmud | T |
 | Pak Mat Polisi / Heru | U |
-| Pak Didik *(nama sama dengan Didik di GG VII dan Cermai; belum pasti sama dengan salah satunya)* | U · baru |
+| Pak Didik *(nama sama dengan Didik di GG VII dan Cermai, orang berbeda)* | U · baru |
 | Pak Tarto | U · baru |
 | Pak Mail | U · baru |
 | Bu Maryamah | U · baru |
@@ -421,7 +421,7 @@ Dari update 2026-11-12:
 - **"7. Bu Ma'sum"**: nomor 7 mungkin merujuk GG 7, atau lanjutan nomor di bawahnya. Saya taruh di Nangka karena letaknya persis di bawah "Nangka: Bu Kus.".
 - **Jumlah WhatsApp tidak cocok**: Ibuk menulis "Berkat diantar nambah 5", tetapi yang disebut ada 8 (Bachtiar, Gangsar, Ketut, Surya, Wito, Maun, Nanang, Durahman). Ditambah dua pesan Minggu malam (anak Bu Kadir, Pak Jainudin, anak almarhumah Bu Mardiono), total jadi 11 nama berkat baru. Semuanya sudah dimasukkan.
 - **Orang di Jl. Cermai tanpa nama**: pesan Ibuk "Jln.cerne yg wingi mari umrah kg baru" bisa berarti baru pulang umrah atau baru selesai membangun rumah. Namanya tidak disebut, jadi belum dimasukkan. Tanya ke Ibuk. Pesan "RT 4 Kabeh Yoo" di bawahnya juga belum jelas, mungkin semua warga RT 4 diundang.
-- **Nama kembar antar gang** (ditulis di kedua tempat, belum pasti orang yang sama): Pak Hilmi (GG V dan Sawo), Bu Widodo (Mangga dan Kawisto), Pak Didik (Kawisto, mungkin sama dengan Didik di GG VII atau Cermai). Didik di GG VII dan Didik di Cermai sudah dipastikan dua orang berbeda (namanya kebetulan sama), keduanya diundang.
+- **Nama kembar antar gang** (ditulis di kedua tempat, belum pasti orang yang sama): Pak Hilmi (GG V dan Sawo), Bu Widodo (Mangga dan Kawisto). Didik di GG VII, Cermai, dan Kawisto sudah dipastikan tiga orang berbeda (namanya kebetulan sama), ketiganya diundang.
 - **Kemungkinan sama dengan yang sudah ada**: Pak Yanto (Blimbing) vs Suyanto, "Pak Panjan" vs Bu Parjan, "Karno?" (Blimbing) vs Pak Karno (GG VI). Tulisan "Rn/Ksn Karno" tidak jelas apakah Bu atau Pak.
 - **Coretan pembuka GG V** tidak terbaca, saya duga Bu Gunawan. Kalau bukan, mungkin ada orang yang hilang dari daftar.
 - **Angka `153 +`** di catatan baru belum jelas. Hitungan tulis ulang sekarang: Perumda 55 + Djoko Tingkir 6 + Permai 109 = 170 baris.
