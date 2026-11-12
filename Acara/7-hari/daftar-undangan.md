@@ -1,4 +1,4 @@
-# Rekap Daftar Undangan — 7 Hari M. Hadi
+# Rekap Daftar Undangan — 7 Hari Bapak Abdul Hadi
 
 > Catatan **sementara**, hasil tulis ulang dari 11 foto tulisan tangan (disusun 2026-11-08).
 > **Diperbarui 2026-11-12**: digabung dengan 7 foto catatan tangan terbaru + 1 tangkapan layar WhatsApp dari Ibuk.
