@@ -9,7 +9,7 @@ Satu folder per acara di dalam `Acara/`, masing-masing berisi daftar undangan da
 | Folder | Isi |
 |---|---|
 | `Acara/7-hari/` | `daftar-undangan.md`, `rekap-undangan-berkat.png` |
-| `Acara/haul-pertama/` | `Undangan-Haul-ke-1.jpg` (daftar undangan belum dibuat) |
+| `Acara/haul-pertama/` | `daftar-undangan.md`, `rekap-undangan-berkat.png`, `Undangan-Haul-ke-1.jpg` |
 | `Acara/Undangan.jpg`, `Undangan.svg` | templat undangan bersama |
 
 Acara berikutnya (haul kedua, 1000 hari, dst.) dibuat sebagai folder baru di `Acara/`.
