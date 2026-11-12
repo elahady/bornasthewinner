@@ -110,7 +110,7 @@ Dobel dihapus: Farel/Farrel (tertulis 2x, gang sama).
 |---|---|
 | Pak Yanto | U |
 | Pak Yit | U |
-| Didik *(sudah ditulis di Permai – Jl. Cermai)* | U |
+| Didik *(nama sama dengan Didik di Permai – Jl. Cermai, orang berbeda)* | U |
 | Regen | U |
 | Bandono | U |
 | Husni | U |
@@ -228,7 +228,7 @@ Catatan baru Blimbing mencoret H. Adhim. Dia sudah ada sebagai H. Adim, tidak di
 | H. Noeryadi | T |
 | Pak Mahmud | T |
 | Pak Mat Polisi / Heru | U |
-| Pak Didik *(nama sama ada di GG VII dan Jl. Cermai, belum pasti orang yang sama)* | U · baru |
+| Pak Didik *(nama sama dengan Didik di GG VII dan Cermai; belum pasti sama dengan salah satunya)* | U · baru |
 | Pak Tarto | U · baru |
 | Pak Mail | U · baru |
 | Bu Maryamah | U · baru |
@@ -304,7 +304,7 @@ Di sisi kanan lembar ada angka penjumlahan: `27 + 47(?) = 74`. Maksudnya belum j
 | 14 | Sabar | |
 | 15 | Okta | |
 | 16 | Sugeng | |
-| 17 | Didik *(sudah ditulis di Perumda GG VII)* | |
+| 17 | Didik *(nama sama dengan Didik di Perumda GG VII, orang berbeda)* | |
 | 18 | H. Kholil *(sudah ditulis di Jl. Kawisto)* | |
 | 19 | H. Yahya | |
 | 20 | Subardono | |
@@ -421,7 +421,7 @@ Dari update 2026-11-12:
 - **"7. Bu Ma'sum"**: nomor 7 mungkin merujuk GG 7, atau lanjutan nomor di bawahnya. Saya taruh di Nangka karena letaknya persis di bawah "Nangka: Bu Kus.".
 - **Jumlah WhatsApp tidak cocok**: Ibuk menulis "Berkat diantar nambah 5", tetapi yang disebut ada 8 (Bachtiar, Gangsar, Ketut, Surya, Wito, Maun, Nanang, Durahman). Ditambah dua pesan Minggu malam (anak Bu Kadir, Pak Jainudin, anak almarhumah Bu Mardiono), total jadi 11 nama berkat baru. Semuanya sudah dimasukkan.
 - **Orang di Jl. Cermai tanpa nama**: pesan Ibuk "Jln.cerne yg wingi mari umrah kg baru" bisa berarti baru pulang umrah atau baru selesai membangun rumah. Namanya tidak disebut, jadi belum dimasukkan. Tanya ke Ibuk. Pesan "RT 4 Kabeh Yoo" di bawahnya juga belum jelas, mungkin semua warga RT 4 diundang.
-- **Nama kembar antar gang** (ditulis di kedua tempat, belum pasti orang yang sama): Pak Hilmi (GG V dan Sawo), Bu Widodo (Mangga dan Kawisto), Pak Didik (Kawisto, GG VII, Cermai).
+- **Nama kembar antar gang** (ditulis di kedua tempat, belum pasti orang yang sama): Pak Hilmi (GG V dan Sawo), Bu Widodo (Mangga dan Kawisto), Pak Didik (Kawisto, mungkin sama dengan Didik di GG VII atau Cermai). Didik di GG VII dan Didik di Cermai sudah dipastikan dua orang berbeda (namanya kebetulan sama), keduanya diundang.
 - **Kemungkinan sama dengan yang sudah ada**: Pak Yanto (Blimbing) vs Suyanto, "Pak Panjan" vs Bu Parjan, "Karno?" (Blimbing) vs Pak Karno (GG VI). Tulisan "Rn/Ksn Karno" tidak jelas apakah Bu atau Pak.
 - **Coretan pembuka GG V** tidak terbaca, saya duga Bu Gunawan. Kalau bukan, mungkin ada orang yang hilang dari daftar.
 - **Angka `153 +`** di catatan baru belum jelas. Hitungan tulis ulang sekarang: Perumda 55 + Djoko Tingkir 6 + Permai 109 = 170 baris.
