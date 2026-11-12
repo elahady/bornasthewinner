@@ -115,7 +115,7 @@ Dobel dihapus: Farel/Farrel (tertulis 2x, gang sama).
 | Bandono | U |
 | Husni | U |
 | Bu Sulis | B |
-| Bu Slamet *(sudah ditulis di GG VIII)* | B |
+| Bu Slamet *(nama sama dengan Bu Slamet di GG VIII, orang berbeda)* | B |
 | Bu Samsul | B |
 | Bu Um | B |
 | Bu Dewi | B |
@@ -131,7 +131,7 @@ Catatan baru GG 7 punya 4 nomor. Nomor 3 dan 4 dicoret (tulisannya mirip "Pak Yi
 | Nafi | U |
 | H. Mustofa | T |
 | Parlan | T |
-| Bu Slamet *(sudah ditulis di GG VII)* | B |
+| Bu Slamet *(nama sama dengan Bu Slamet di GG VII, orang berbeda)* | B |
 | Bu Parti | B |
 | Bu Edi | B |
 
