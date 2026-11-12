@@ -12,7 +12,7 @@
 - Nama dobel di gang yang sama dihapus. Nama dobel di gang berbeda ditulis di kedua gang, dengan tanda *(sudah ditulis di …)*.
 - Penanda di tabel: **T** = daftar Takmir, **B** = daftar Berkat, **U** = tanpa label (dari ringkasan/lembar lain).
 - Penanda update 2026-11-12: **· baru** = tambahan, **· diubah** = baris lama yang dimodifikasi. Nama yang ditambah dari catatan tangan tanpa label diberi **U**; yang dari WhatsApp Ibuk ("berkat dikirim/diantar") diberi **B**.
-- Tanda `?` = tulisan sulit dibaca, perlu dicek. `✗` = ada coretan/tanda x di catatan asli, artinya belum jelas. Saya biarkan apa adanya.
+- Tanda `?` = tulisan sulit dibaca, perlu dicek.
 
 ---
 
@@ -172,7 +172,7 @@ Catatan baru menulis "Adi" dan "Muzaffin", plus satu baris strip kosong. "Adi" s
 |---|---|
 | H. Khoirul Anam | T |
 | H. Ashari | T |
-| H. Eko ✗ | T |
+| H. Eko | T |
 | Sutrisno | T |
 | Wahyudi | T |
 | Mat Anwar | T |
@@ -263,16 +263,16 @@ Lembar tanpa label. Dimasukkan ke Permai karena di ringkasan tertulis "RT 8: Saw
 |---|---|---|
 | 1 | H. Ayok | |
 | 2 | Nasrulah | |
-| 3 | Taskan | ✗ |
-| 4 | Supri | ✗ |
-| 5 | Mardin | ✗ |
-| 6 | Jatmiko | ✗ |
+| 3 | Taskan | |
+| 4 | Supri | |
+| 5 | Mardin | |
+| 6 | Jatmiko | |
 | 7 | Margono | |
-| 8 | Harits | ✗ |
-| 9 | Azizul | ✗ |
-| 10 | Sunarno | ✗ |
-| 11 | Rio | ✗ |
-| 12 | Rahmat | ✗ |
+| 8 | Harits | |
+| 9 | Azizul | |
+| 10 | Sunarno | |
+| 11 | Rio | |
+| 12 | Rahmat | |
 | 13 | Birowo | |
 | 14 | Doni | |
 | 15 | Suradi | |
@@ -282,7 +282,7 @@ Lembar tanpa label. Dimasukkan ke Permai karena di ringkasan tertulis "RT 8: Saw
 | 19 | Pak Hilmi *(juga ditulis di Perumda GG V)* | baru |
 | 20 | Bu Supiah | baru |
 
-Di sisi kanan lembar ada angka penjumlahan: `27 + 47(?) = 74`. Kemungkinan jumlah yang ditandai ✗ dan yang tidak, belum jelas.
+Di sisi kanan lembar ada angka penjumlahan: `27 + 47(?) = 74`. Maksudnya belum jelas.
 
 ### Jl. Cermai / "Cerme" (22 orang)
 | No | Nama | Tanda |
@@ -296,13 +296,13 @@ Di sisi kanan lembar ada angka penjumlahan: `27 + 47(?) = 74`. Kemungkinan jumla
 | 7 | Ruruh? | |
 | 8 | Rujito | |
 | 9 | Santok | |
-| 10 | Aria | ✗ |
+| 10 | Aria | |
 | 11 | Malik | |
-| 12 | Abi | ⊗ |
+| 12 | Abi | |
 | 13 | H. Mas Totok | |
 | 14 | Sabar | |
-| 15 | Okta | ✗ |
-| 16 | Sugeng | ✗ |
+| 15 | Okta | |
+| 16 | Sugeng | |
 | 17 | Didik *(sudah ditulis di Perumda GG VII)* | |
 | 18 | H. Kholil *(sudah ditulis di Jl. Kawisto)* | |
 | 19 | H. Yahya | |
@@ -316,7 +316,7 @@ Dari WhatsApp Ibuk ada satu orang di Jl. Cermai yang namanya tidak disebut ("yan
 
 ## 4. Di luar perumahan
 
-### 4a. Rumah Kantor (gabungan lembar "Rumah Kantor" dan lembar daftar bertanda ✓/✗)
+### 4a. Rumah Kantor (gabungan lembar "Rumah Kantor" dan lembar daftar bertanda centang)
 
 Daftar utama, dari lembar "Rumah Kantor" (30 nomor):
 
@@ -354,7 +354,7 @@ Daftar utama, dari lembar "Rumah Kantor" (30 nomor):
 
 Nomor 23 tidak terbaca karena kertasnya robek.
 
-Tambahan dari lembar kedua (39 nomor, bertanda ✓/✗/?) yang tidak ada di daftar utama. Nama yang sama dengan daftar utama sudah dihapus:
+Tambahan dari lembar kedua (39 nomor, bertanda centang/?) yang tidak ada di daftar utama. Nama yang sama dengan daftar utama sudah dihapus:
 
 - O1 (lembar kedua memakai "O1" dan "O3"; "O1" mungkin sama dengan "P. Yes?", belum pasti)
 - Bu Puji? (ada tulisan "SBLD?")
