@@ -6,11 +6,11 @@
 
 ## Perubahan untuk haul pertama
 
-Belum ada. Catat di sini orang yang ditambah (orang baru di perumahan) dan yang dihapus (sudah meninggal), lalu terapkan ke tabel di bawah.
+Catat di sini orang yang ditambah (orang baru di perumahan) dan yang dihapus (sudah meninggal), lalu terapkan ke tabel di bawah.
 
 | Gang / jalan | Ditambah | Dihapus (meninggal) |
 |---|---|---|
-| | | |
+| GG III | | Arief Sujarnata: tidak diundang lagi, keluarganya diberi berkat saja |
 
 ## Aturan penyusunan
 
@@ -46,7 +46,7 @@ Belum ada. Catat di sini orang yang ditambah (orang baru di perumahan) dan yang 
 | Nama | Jenis |
 |---|---|
 | H. Daim | T |
-| Arief Sujarnata | T |
+| Arief Sujarnata *(almarhum; berkat untuk keluarga)* | B · diubah |
 | Bu Rusmaji | U |
 | Pak Budi | U |
 | Anak almarhumah Bu Mardiono *(berkat dikirim)* | B |
