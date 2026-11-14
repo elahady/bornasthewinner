@@ -9,7 +9,7 @@ Satu folder per acara di dalam `Acara/`, masing-masing berisi daftar undangan da
 | Folder | Isi |
 |---|---|
 | `Acara/7-hari/` | `daftar-undangan.md`, `rekap-undangan-berkat.png` |
-| `Acara/haul-pertama/` | `daftar-undangan.md`, `rekap-undangan-berkat.png`, `Undangan-Haul-ke-1.jpg` |
+| `Acara/haul-pertama/` | `daftar-undangan.md`, `rekap-undangan-berkat.png`, `Undangan-Haul-ke-1.jpg`, `berkat-haul-pertama-1-perumda.png`, `berkat-haul-pertama-2-permai.png` (daftar penerima berkat saja, 53 orang, 2 gambar lebar 1080px untuk dibagikan di WhatsApp) |
 | `Acara/Undangan.jpg`, `Undangan.svg` | templat undangan bersama |
 
 Acara berikutnya (haul kedua, 1000 hari, dst.) dibuat sebagai folder baru di `Acara/`.
